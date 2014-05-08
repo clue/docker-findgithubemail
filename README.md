@@ -58,13 +58,13 @@ If you're not looking for me, replace `clue` with another GitHub user.
 Print all emails in the user's event log:
 
 ```bash
-$ github-email -e clue`
+$ github-email -e clue
 ```
 
 Or cross-check the discovered emails with the user's Gravatar ID:
 
 ```bash
-$ github-email -g clue`
+$ github-email -g clue
 ```
 
 Or if you're unsure and need the usage info:
