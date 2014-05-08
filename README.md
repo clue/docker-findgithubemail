@@ -32,7 +32,7 @@ To further ease running, it's recommended to set up a much shorter `alias`
 so that you can easily execute it as just `github-email`:
 
 ```bash
-$ alias github-email='docker run -it --rm clue/github-email'
+$ alias github-email='docker run -it --rm clue/findgithubemail'
 ```
 
 This will create a temporary alias. In order to make it persist reboots,
